@@ -13,3 +13,9 @@ This version of Minesweeper is played a 4 x 3 board
 - Flag all the bombs to Win!
 
 ------------------------------
+Video Demonstration 
+
+
+
+https://user-images.githubusercontent.com/40841733/116951387-ad064900-ac55-11eb-96d6-f92a44b31e01.mp4
+
